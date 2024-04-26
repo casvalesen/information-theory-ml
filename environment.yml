@@ -1,0 +1,15 @@
+name: inf-ml
+channels:
+- default
+- conda-forge 
+dependencies: 
+- python==3.10
+- scipy
+- matplotlib
+- seaborn 
+- numpy
+- pandas 
+- statsmodels
+- scikit-learn
+- pip
+- pip:
